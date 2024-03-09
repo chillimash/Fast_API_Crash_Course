@@ -12,7 +12,7 @@ app = FastAPI(
         "email": "mash@fastapi.co.za"
     },
     license_info = {
-        "name" : "MIT",
+        "name" : "MIT"
     }
 )
 
