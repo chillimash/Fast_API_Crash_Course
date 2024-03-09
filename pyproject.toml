@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "fast api crash course"
+version = "0.1.0"
+description = "Wekeend Crash Course"
+authors = ["Mashudu Tshililo <Mashudu.Tshililo@standardbank.co.za>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pydentic = "^0.0.1.dev3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
